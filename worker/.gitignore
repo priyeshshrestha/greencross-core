@@ -1,0 +1,13 @@
+.idea
+.vscode
+.DS_Store
+*.py[cod]
+.env
+__pycache__/
+config/
+log/
+ssd/
+data.json
+app.log
+ecosystem.config.json
+start.sh
